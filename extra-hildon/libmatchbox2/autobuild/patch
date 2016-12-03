@@ -1,0 +1,1 @@
+sed -i 's/libpng12/libpng/g' configure.ac
