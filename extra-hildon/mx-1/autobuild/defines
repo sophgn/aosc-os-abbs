@@ -4,3 +4,4 @@ PKGDES="A clutter-based toolkit"
 PKGSEC=libs
 
 AUTOTOOLS_AFTER="--with-clutter-gesture"
+RECONF=0
