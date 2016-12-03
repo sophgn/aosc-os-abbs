@@ -1,0 +1,3 @@
+VER=0
+GITSRC="https://github.com/android-808/libhildon.git"
+GITCO="gtk_3"
