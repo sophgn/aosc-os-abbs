@@ -1,0 +1,4 @@
+PKGNAME=libhildondesktop
+PKGDES="Library for Hildon's desktop"
+PKGSEC=libs
+PKGDEP="libhildon dbus"
