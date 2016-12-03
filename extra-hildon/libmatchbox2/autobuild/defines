@@ -1,3 +1,4 @@
 PKGNAME=libmatchbox2
 PKGDES="Library for matchbox"
 PKGSEC=libs
+PKGDEP="clutter"
