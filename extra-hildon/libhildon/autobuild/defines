@@ -1,6 +1,6 @@
 PKGNAME=libhildon
 PKGDES="Library for Hildon desktop environment"
-PKGDEP="gtk-3"
+PKGDEP="gtk-3 libcanberra gconf"
 PKGSEC=libs
 
 ABSHADOW=no
