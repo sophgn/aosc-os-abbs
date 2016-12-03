@@ -1,0 +1,4 @@
+PKGNAME=mx-1
+PKGDEP="clutter gtk-2"
+PKGDES="A clutter-based toolkit"
+PKGSEC=libs
