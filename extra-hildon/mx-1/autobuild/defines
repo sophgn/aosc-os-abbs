@@ -3,5 +3,4 @@ PKGDEP="clutter gtk-2"
 PKGDES="A clutter-based toolkit"
 PKGSEC=libs
 
-AUTOTOOLS_AFTER="--with-clutter-gesture"
 RECONF=0
