@@ -1,0 +1,3 @@
+PKGNAME=iphbd
+PKGDES="IP heartbeat"
+PKGSEC=libs

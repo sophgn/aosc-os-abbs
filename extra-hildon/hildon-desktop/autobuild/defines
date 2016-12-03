@@ -1,0 +1,4 @@
+PKGNAME=hildon-desktop
+PKGDEP="libhildondesktop libhildon gnome-menus mx-1"
+PKGDES="Hildon desktop"
+PKGSEC=x11
